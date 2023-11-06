@@ -1,7 +1,5 @@
 # Node.js Basic Course
 
-The course was designed for the [Generation Thailand](https://thailand.generation.org/) JSD Program.
-It is a one-week course for the students to learn the basic of Node.js and Express.js.
 
 ## How to use this course?
 
